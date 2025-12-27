@@ -3,13 +3,13 @@
 
 👯 I’m looking to collaborate on Open-source projects related to Audio AI, WebRTC low-latency streaming, or developer productivity tools. If it involves music tech or real-time communication, count me in!<br>
 
-🤝 I’m looking for help with Advanced prompt engineering for creative arts and optimizing LLM latency for real-time applications.<br>
+🤝 I’m looking for help with training music LLMs like YuE, MusicGen, SongGen, LeVo, <br>
 
 🌱 I’m currently learning fine-tuning for specific audio use cases, and exploring next-gen cloud architecture patterns.<br>
 
 💬 Ask me about Agile development (I live in Jira!), building AI projects,  panels that scale, integrating LLM's into production apps, and the startup ecosystem in India.<br>
 
-⚡ Fun fact I’ve visited my Jira board 40 times in the last 24 hours—my commit history is green, but my ticket history is legendary. 🎸<br><br>
+⚡ Fun fact I’ve visited my Jira board 40 times in the last 24 hours
 
 
 ## 🌐 Socials:
@@ -92,4 +92,3 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=ketan1829&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
